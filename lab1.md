@@ -24,9 +24,10 @@ editor: visual
 1. Получить версию ядра можно с помощью команды: uname -r
 {bash}
 uname -r
-![Иллюстрация к проекту](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/uname_r.png)
+
+![Версия ядра](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/uname_r.png)
 
 
---<img src=" img_lab1/uname_r.png ">
+
 
 
