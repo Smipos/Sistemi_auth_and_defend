@@ -25,4 +25,4 @@ editor: visual
 {bash}
 uname -r
 
-![Версия ядра](img_lab1/uname_r.png)
+![Версия ядра](Sistemi_auth_and_defend/img_lab1/uname_r.png)
