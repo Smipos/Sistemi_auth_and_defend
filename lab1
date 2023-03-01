@@ -25,14 +25,8 @@ editor: visual
 {bash}
 uname -r
 
---![Версия ядра](Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/uname_r.png)
+![Версия ядра](Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/uname_r.png)
 
-<img src=" img_lab1/uname_r.png ">
+--<img src=" img_lab1/uname_r.png ">
 
-<details>
- 
-[![введите сюда описание изображения][1]][1]
- 
-[1]: img_lab1/uname_r.png
- 
-</details>
+
