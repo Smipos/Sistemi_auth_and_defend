@@ -65,3 +65,9 @@ cat /proc/cpuinfo \| grep "model name"
 ls -a
 
 ![Инфомарция о модели проца](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/ls_a.png)
+
+## Результат
+В ходе выполнения лабароторной работы смог получить сведения об используемой системе.
+
+## Вывод
+Научился получать сведения о системе Manjaro Linux
