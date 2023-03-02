@@ -35,3 +35,10 @@ uname -a
 
 
 ![Полные сведения о ядре](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/uname_a.png)
+
+3. Используемый дистрибутив: lsb_release -a
+
+{bash}
+lsb_release -a
+
+![Полные сведения о ядре](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/lsb_release_a.png)
