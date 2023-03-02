@@ -8,7 +8,7 @@ editor: visual
 Получить сведения о системе.
 
 ## Исходные данные
-1. ПО Windows 10
+1. ПО Manjaro Linux
 2. RStudio
 
 ## План работы
