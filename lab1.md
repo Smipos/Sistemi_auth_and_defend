@@ -42,3 +42,12 @@ uname -a
 lsb_release -a
 
 ![Полные сведения о ядре](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/lsb_release_a.png)
+
+4. Информация о процессоре: cat /proc/cpuinfo
+
+{bash}
+cat /proc/cpuinfo
+
+![ИНформация о проце](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/cpu_info.png)
+
+![Инфомарция о проце](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/cpu_info_2.png)
