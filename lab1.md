@@ -53,3 +53,8 @@ cat /proc/cpuinfo
 ![Инфомарция о проце](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/cpu_info_2.png)
 
 5. Модель процессора: cat /proc/cpuinfo \| grep "model name"
+
+{bash}
+cat /proc/cpuinfo \| grep "model name"
+
+![Инфомарция о модели проца](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/grep_model.png)
