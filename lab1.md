@@ -34,4 +34,4 @@ uname -r
 uname -a
 
 
-
+![Полные сведения о ядре](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/uname_a.png)
