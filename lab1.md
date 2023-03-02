@@ -64,3 +64,4 @@ cat /proc/cpuinfo \| grep "model name"
 {bash}
 ls -a
 
+![Инфомарция о модели проца](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/ls_a.png)
