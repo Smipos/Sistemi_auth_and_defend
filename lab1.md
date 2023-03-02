@@ -58,3 +58,9 @@ cat /proc/cpuinfo
 cat /proc/cpuinfo \| grep "model name"
 
 ![Инфомарция о модели проца](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/grep_model.png)
+
+6. Скрытые файлы: ls -a
+
+{bash}
+ls -a
+
