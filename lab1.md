@@ -32,6 +32,7 @@ uname -r
 2. Полные сведения о ядре: uname -a
 
 {bash}
+
 uname -a
 
 
@@ -40,6 +41,7 @@ uname -a
 3. Используемый дистрибутив: lsb_release -a
 
 {bash}
+
 lsb_release -a
 
 ![Полные сведения о ядре](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/lsb_release_a.png)
@@ -47,6 +49,7 @@ lsb_release -a
 4. Информация о процессоре: cat /proc/cpuinfo
 
 {bash}
+
 cat /proc/cpuinfo
 
 ![ИНформация о проце](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/cpu_info.png)
@@ -56,6 +59,7 @@ cat /proc/cpuinfo
 5. Модель процессора: cat /proc/cpuinfo \| grep "model name"
 
 {bash}
+
 cat /proc/cpuinfo \| grep "model name"
 
 ![Инфомарция о модели проца](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/grep_model.png)
@@ -63,6 +67,7 @@ cat /proc/cpuinfo \| grep "model name"
 6. Скрытые файлы: ls -a
 
 {bash}
+
 ls -a
 
 ![Инфомарция о модели проца](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/img_lab1/ls_a.png)
