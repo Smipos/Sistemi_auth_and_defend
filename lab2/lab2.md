@@ -61,3 +61,9 @@ count = merged['exists'].value_counts()[1]
 percentile = round(merged['exists'].value_counts(normalize=True)[1]*100, 2)
 print("DNS имен из списков трафика: {}.".format(count), "Процент нежелательного трафика: {}%.".format(percentile), sep='\n')
 ```
+
+## Оценка результата
+В результате лабораторной работы научился определять нежелательный трафик.
+
+## Вывод
+Таким образом, мы научились анализировать сетевой трафик.
