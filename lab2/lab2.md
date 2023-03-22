@@ -5,3 +5,4 @@
 + Закрепить знания о современных сетевых протоколах прикладного уровня
 ## Ход работы
 + Собрал сетевой трафик с помощью Wireshark
+![](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/lab2/img_lab2/trafic.jpg)
