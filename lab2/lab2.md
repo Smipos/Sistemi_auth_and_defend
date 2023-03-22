@@ -4,13 +4,13 @@
 + Освоить базовые подходы блокировки нежелательного сетевого трафика
 + Закрепить знания о современных сетевых протоколах прикладного уровня
 ## Ход работы
-+ Собрал сетевой трафик с помощью Wireshark
+1. Собрал сетевой трафик с помощью Wireshark
 
 ![](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/lab2/img_lab2/trafic.jpg)
 
-+ С помощью утилиты Zeek выделяю метаинформацию сетевого трафика (http.log/dns.log)
+2. С помощью утилиты Zeek выделяю метаинформацию сетевого трафика (http.log / dns.log)
 
-+ Загрузил и соединил файлы, содержащие списки источников нежелательного трафика:
+3. Загрузил и соединил файлы, содержащие списки источников нежелательного трафика:
 
 ```
 mkdir hosts
@@ -27,3 +27,22 @@ rm -rf hosts
 ```
 В результате получил файл hosts.data
 
+4. Установил библиотеку ZAT (Zeek Analysis Toolkit) для преобразоваия метаинформации сетевого трафика в формате log-файлов в датафрейм Pandas:
+
+```
+pip install zat
+```
+
+5. После установки библиотеки преобразуем файл dns.log в датафрейм Pandas
+
+```
+import warnings
+warnings.filterwarnings("ignore", category=RuntimeWarning)
+import numpy as np
+import pandas as pd
+from zat.log_to_dataframe import LogToDataFrame
+df = LogToDataFrame()
+z_df = df.create_dataframe('dns.log')
+domains = z_df['query']
+domains.name = 'CNAME'
+```
