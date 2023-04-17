@@ -14,7 +14,6 @@
 
 ```
 bash
-
 mkdir hosts
 cd hosts
 wget -q https://github.com/StevenBlack/hosts/raw/master/data/add.2o7Net/hosts
