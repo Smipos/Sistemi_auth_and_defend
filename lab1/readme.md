@@ -27,7 +27,7 @@ editor: visual
 
 uname -r
 ```
-![Версия ядра](https://github.com/Sistemi_auth_and_defend/blob/main/lab1/screenshots/uname_r.png)
+![Версия ядра](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/lab1/screenshots/uname_r.png)
 
 2. Полные сведения о ядре: uname -a
 ```
