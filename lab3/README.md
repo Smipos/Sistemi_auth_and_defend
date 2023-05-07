@@ -28,19 +28,19 @@
 
 3. Переходим на `localhost:5061` и авторизируемся 
 
-    ![](./screens/s2.png)
+    ![](./screenshots/s2.png)
 
 4. Проверям, что установленны все средства для сбора информации из файлов журналов и сбора аналитики трафика
 
-    ![](./screens/s3.png)
+    ![](./screenshots/s3.png)
 
 5. Создаем новый data view для filebeat
 
-    ![](./screens/s4.png)
+    ![](./screenshots/s4.png)
 
 6. Создаем новый data view для packetbeat
 
-    ![](./screens/s5.png)
+    ![](./screenshots/s5.png)
 
 ## Оценка результата
 
