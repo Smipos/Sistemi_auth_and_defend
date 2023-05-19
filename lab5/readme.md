@@ -8,3 +8,5 @@
 1. Для описания выбрал ГОСТ Р 51188-98 Испытания программных средств на наличие компьютерных вирусов.
 2. Программа для построения mind-карты: Freeplane.
 3. Результат работы.
+
+![](https://github.com/Smipos/Sistemi_auth_and_defend/blob/main/lab5/screens/mindmap.jpg)
