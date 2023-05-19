@@ -71,8 +71,10 @@
      * Список клиентов: [ссылка](https://www.ptsecurity.com/ru-ru/about/clients/)
 
 7. Основные веб-сайты компании и ее продуктов:
-   Веб-сайт: [positive technologies](https://www.ptsecurity.com/ru-ru/)
-   
+  + Веб-сайт: [positive technologies](https://www.ptsecurity.com/ru-ru/)
+8. Публичные сотрудники компании, активные участники ИТ и ИБ-сообщества, участники профильных конференций:
+   + [Сотрудники](https://www.ptsecurity.com/ru-ru/about/speakers/)
+9. Уникальные достижения, ключевые продукты компании (при наличии)   
 ## Оценка результата
 
 ## Вывод
