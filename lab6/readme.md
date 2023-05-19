@@ -77,5 +77,6 @@
 9. Уникальные достижения, ключевые продукты компании (при наличии)   
    + [Премия Е+ Awards](https://www.ptsecurity.com/ru-ru/about/news/positive-technologies-poluchila-oskar-v-oblasti-marketinga-premiyu-e-awards-za-postroenie-ehffektivnyh-kommunikacij-s-roznichnymi-investorami-s-nulya/)
 ## Оценка результата
-
+В результате данной практической работы мы выяснили, что Positive Technologies - это одна из ведещих компаний по разрабатыванию антивирусного ПО, с множеством продуктов, подходящих как для дома, так и для бизнеса.
 ## Вывод
+Освоили базовые подходы процессов OSIN, современные инструменты поиска и сбора информации.
