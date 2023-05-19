@@ -71,7 +71,7 @@
      * Список клиентов: [ссылка](https://www.ptsecurity.com/ru-ru/about/clients/)
 
 7. Основные веб-сайты компании и ее продуктов:
-   Веб-сайт: ![positive technologies](https://www.ptsecurity.com/ru-ru/)
+   Веб-сайт: [positive technologies](https://www.ptsecurity.com/ru-ru/)
    
 ## Оценка результата
 
