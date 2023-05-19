@@ -75,7 +75,7 @@
 8. Публичные сотрудники компании, активные участники ИТ и ИБ-сообщества, участники профильных конференций:
    + [Сотрудники](https://www.ptsecurity.com/ru-ru/about/speakers/)
 9. Уникальные достижения, ключевые продукты компании (при наличии)   
-   + [Премия Е+ Awards]([премию E+ Awards за построение эффективных коммуникаций с розничными инвесторами с нуля](https://www.ptsecurity.com/ru-ru/about/news/positive-technologies-poluchila-oskar-v-oblasti-marketinga-premiyu-e-awards-za-postroenie-ehffektivnyh-kommunikacij-s-roznichnymi-investorami-s-nulya/))
+   + [Премия Е+ Awards](https://www.ptsecurity.com/ru-ru/about/news/positive-technologies-poluchila-oskar-v-oblasti-marketinga-premiyu-e-awards-za-postroenie-ehffektivnyh-kommunikacij-s-roznichnymi-investorami-s-nulya/)
 ## Оценка результата
 
 ## Вывод
