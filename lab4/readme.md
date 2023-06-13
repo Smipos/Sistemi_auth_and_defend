@@ -10,7 +10,7 @@
 
 1. Файл кофигураций
 
-    * Клонируем репозитарий
+    * Клонируем репозиторий
         ```
         sudo git clone https://github.com/OpenCTI-Platform/docker.git 
         ```
